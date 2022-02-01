@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{F2662A18-401F-4166-928F-E2F1C60D010F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DSForInterviewsCSharp/Program.cs">
+    <Files>
+      <File FileName="DSForInterviewsCSharp/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DSForInterviewsCSharp" expanded="True">
+            <Node name="DSForInterviewsCSharp" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DSForInterviewsCSharp FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
